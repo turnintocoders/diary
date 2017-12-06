@@ -51,3 +51,5 @@ Client developed in C/C++/Micropython/Python/F#, very flexible!
 What's the human record of number of Pi digits remembered? 70,030 digits for world record. 100,000 unofficial record. 16h of talking. WHAT!
 Apparently they've used the method of loci to remember a lot of information.
 https://en.wikipedia.org/wiki/Method_of_loci
+
+[Slides](http://slides.com/endorama/method-of-loci)
